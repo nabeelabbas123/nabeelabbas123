@@ -1,5 +1,5 @@
 [![MasterHead](https://drive.google.com/uc?id=1ApwGnlj-BokMeFPlDeflVHBqO_CNR08l)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Nabeel Abbass</h1>
+<h1 align="center">Hi 👋, I'm Nabeel Abbas</h1>
 <h3 align="center">Data Science | Smart Agriculture Researcher | Machine Learning | Deep Learning | Image Processing | Transforming Ideas into Reality | Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29zNmJ5NGV0cDVwb2Rja2xhZnF0MnIzZDduM2h5bWx4b3JvYnk3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QpyF0jsO26GWKTWctv/giphy.gif">
 
